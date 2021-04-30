@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Philipp Schinacher
 - 👀 I’m interested in Software develoment and Arduino programming 
-- 🌱 I’m currently learning GUI Development with PyQt
 - 💞️ I’m looking to collaborate on interesting Projects
 - 📫 How to reach me pschinacher@protonmail.com
 
