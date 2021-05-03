@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Philipp Schinacher
-- 👀 I’m interested in Software develoment and Arduino programming 
+- 👋 Hi, I’m Philipp Schinacher 
 - 💞️ I’m looking to collaborate on interesting Projects
 - 📫 How to reach me pschinacher@protonmail.com
 
