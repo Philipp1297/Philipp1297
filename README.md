@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Philipp Schinacher 
-- :fire: I’m looking to collaborate on interesting Projects
+- :fire:  I’m looking to collaborate on interesting Projects
 - 📫 How to reach me pschinacher@protonmail.com
 - :triangular_flag_on_post:  My GitLab Account: https://gitlab.com/Philipp1297
 
