@@ -4,7 +4,7 @@
 - :triangular_flag_on_post:  My GitLab Account: https://gitlab.com/Philipp1297
 - :briefcase: My LinkedIn Account: https://www.linkedin.com/in/philipp-schinacher/
 
-- My Wakatime stats since 13.April 2023
+My Coding Time since 13.April 2023 <br>
 [![wakatime](https://wakatime.com/badge/user/b40fc0a8-0c3d-4c72-850f-046f545584cc.svg)](https://wakatime.com/@b40fc0a8-0c3d-4c72-850f-046f545584cc)
 
 
