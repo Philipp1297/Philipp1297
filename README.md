@@ -13,7 +13,7 @@ My Coding Time since 12.April 2023: <br>
 
 
 
-![Anurag's GitHub stats](https://test-hmw8c7cjf-philipp1297.vercel.app/api?username=Philipp1297&hide=contribs,prs)
+![Anurag's GitHub stats](https://test-philipp1297.vercel.app/api?username=Philipp1297&hide=contribs,prs)
 <!---
 Philipp1297/Philipp1297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
