@@ -10,10 +10,6 @@ My Coding Time since 12.April 2023: <br>
 - :triangular_flag_on_post:  My GitLab Account: https://gitlab.com/Philipp1297
 - :briefcase: My LinkedIn Account: https://www.linkedin.com/in/philipp-schinacher/
 
-
-
-
-![Anurag's GitHub stats](https://test-philipp1297.vercel.app/api?username=Philipp1297&hide=contribs,prs)
 <!---
 Philipp1297/Philipp1297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
