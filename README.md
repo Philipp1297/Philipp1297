@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Philipp Schinacher 
-- :fire:  I’m looking to collaborate on interesting Projects
-- 📫 How to reach me pschinacher@protonmail.com
-- :triangular_flag_on_post:  My GitLab Account: https://gitlab.com/Philipp1297
-- :briefcase: My LinkedIn Account: https://www.linkedin.com/in/philipp-schinacher/
+👋 Hi, I’m Philipp Schinacher 
+:fire:  I’m looking to collaborate on interesting Projects
+📫 How to reach me pschinacher@protonmail.com
+:triangular_flag_on_post:  My GitLab Account: https://gitlab.com/Philipp1297
+:briefcase: My LinkedIn Account: https://www.linkedin.com/in/philipp-schinacher/
 
 
 My Coding Time since 11.April 2023: <br>
