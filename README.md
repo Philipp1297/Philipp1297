@@ -4,8 +4,9 @@
 :triangular_flag_on_post:  My GitLab Account: https://gitlab.com/Philipp1297 <br>
 :briefcase: My LinkedIn Account: https://www.linkedin.com/in/philipp-schinacher/ <br>
 
-[![Linkedin](logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philipp-schinacher/l-p-singh/)](https://www.linkedin.com/in/philipp-schinacher/)
 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-schinacher/)
 
 [![wakatime](https://wakatime.com/badge/user/b40fc0a8-0c3d-4c72-850f-046f545584cc.svg)](https://wakatime.com/@b40fc0a8-0c3d-4c72-850f-046f545584cc)
 
