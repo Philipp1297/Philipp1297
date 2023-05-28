@@ -27,7 +27,7 @@ XAML               20 mins         -------------------------   00.16 %
 
 <!--END_SECTION:waka-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Philipp1297&theme=dark)](https://git.io/streak-stats)
+
 
 <strong>Languages:  </strong><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
