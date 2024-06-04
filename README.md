@@ -25,7 +25,9 @@ C++                             16 hrs 47 mins  -------------------------   01.3
 Kotlin                          6 hrs 56 mins   -------------------------   00.57 %
 ```
 
-<figure><embed src="https://wakatime.com/share/@Philipp1297/9d025411-fefe-4870-a8da-2ff55b76d492.svg"></embed></figure>
+<figure>
+    <img src="https://wakatime.com/share/@Philipp1297/9d025411-fefe-4870-a8da-2ff55b76d492.svg" alt="WakaTime Stats">
+</figure>
 
 <!--END_SECTION:waka-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Philipp1297&theme=dark)](https://git.io/streak-stats)
