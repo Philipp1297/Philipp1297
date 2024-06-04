@@ -26,7 +26,7 @@ Kotlin                          6 hrs 56 mins   -------------------------   00.5
 ```
 
 <figure>
-    <img src="https://wakatime.com/share/@Philipp1297/9d025411-fefe-4870-a8da-2ff55b76d492.svg" alt="WakaTime Stats">
+    <img src="https://wakatime.com/share/@Philipp1297/a5efcbc8-68e8-43b3-94fb-771a4a2c474f.svg" alt="WakaTime Stats">
 </figure>
 
 <!--END_SECTION:waka-->
