@@ -24,11 +24,6 @@ SQL                             17 hrs 28 mins  -------------------------   01.4
 C++                             16 hrs 47 mins  -------------------------   01.38 %
 Kotlin                          6 hrs 56 mins   -------------------------   00.57 %
 ```
-
-<figure>
-    <img src="https://wakatime.com/share/@Philipp1297/a5efcbc8-68e8-43b3-94fb-771a4a2c474f.svg" alt="WakaTime Stats">
-</figure>
-
 <!--END_SECTION:waka-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Philipp1297&theme=dark)](https://git.io/streak-stats)
 
