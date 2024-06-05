@@ -9,21 +9,22 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2023 - To: 02 June 2024
+From: 11 April 2023 - To: 03 June 2024
 
-Total Time: 1,219 hrs
+Total Time: 1,225 hrs 41 mins
 
-Python                          607 hrs 55 mins >>>>>>>>>>>>-------------   49.87 %
-JavaScript                      191 hrs 33 mins >>>>---------------------   15.71 %
-HTML                            126 hrs 33 mins >>>----------------------   10.38 %
-Markdown                        122 hrs 15 mins >>>----------------------   10.03 %
-JSON                            37 hrs 35 mins  >------------------------   03.08 %
-C#                              34 hrs 25 mins  >------------------------   02.82 %
-CSS                             32 hrs 31 mins  >------------------------   02.67 %
+Python                          609 hrs 35 mins >>>>>>>>>>>>-------------   49.73 %
+JavaScript                      191 hrs 33 mins >>>>---------------------   15.63 %
+HTML                            127 hrs 14 mins >>>----------------------   10.38 %
+Markdown                        126 hrs 36 mins >>>----------------------   10.33 %
+JSON                            37 hrs 35 mins  >------------------------   03.07 %
+C#                              34 hrs 25 mins  >------------------------   02.81 %
+CSS                             32 hrs 31 mins  >------------------------   02.65 %
 SQL                             17 hrs 28 mins  -------------------------   01.43 %
-C++                             16 hrs 47 mins  -------------------------   01.38 %
+C++                             16 hrs 47 mins  -------------------------   01.37 %
 Kotlin                          6 hrs 56 mins   -------------------------   00.57 %
 ```
+
 <!--END_SECTION:waka-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Philipp1297&theme=dark)](https://git.io/streak-stats)
 
