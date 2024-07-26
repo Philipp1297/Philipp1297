@@ -26,7 +26,8 @@ Other                           10 hrs 6 mins   -------------------------   00.6
 ```
 
 <!--END_SECTION:waka-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Philipp1297&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=Philipp1297&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)-->
 
 
 <strong>Languages:  </strong><br>
