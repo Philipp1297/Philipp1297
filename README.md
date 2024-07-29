@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2023 - To: 26 July 2024
+From: 11 April 2023 - To: 27 July 2024
 
-Total Time: 1,521 hrs 36 mins
+Total Time: 1,522 hrs 11 mins
 
-Python                          810 hrs 3 mins  >>>>>>>>>>>>>------------   53.24 %
+Python                          810 hrs 37 mins >>>>>>>>>>>>>------------   53.25 %
 JavaScript                      209 hrs 59 mins >>>----------------------   13.80 %
-Markdown                        171 hrs 36 mins >>>----------------------   11.28 %
+Markdown                        171 hrs 36 mins >>>----------------------   11.27 %
 HTML                            141 hrs 5 mins  >>-----------------------   09.27 %
 JSON                            44 hrs 4 mins   >------------------------   02.90 %
 CSS                             35 hrs 3 mins   >------------------------   02.30 %
