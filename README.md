@@ -1,10 +1,5 @@
 👋 Hi, I’m Philipp Schinacher <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-schinacher/)
-[![GitLaba](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Philipp1297)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pschinacher@protonmail.com)
-
-
 [All Socials](https://guns.lol/philipp1297)
 
 <!--[![wakatime](https://wakatime.com/badge/user/b40fc0a8-0c3d-4c72-850f-046f545584cc.svg)](https://wakatime.com/@b40fc0a8-0c3d-4c72-850f-046f545584cc)-->
