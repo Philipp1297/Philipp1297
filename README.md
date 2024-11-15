@@ -3,7 +3,7 @@
 <!--[![wakatime](https://wakatime.com/badge/user/b40fc0a8-0c3d-4c72-850f-046f545584cc.svg)](https://wakatime.com/@b40fc0a8-0c3d-4c72-850f-046f545584cc)-->
 
 <!--START_SECTION:waka-->
-
+Coding activity:
 ```txt
 Total Time: 2,231 hrs 11 mins
 
