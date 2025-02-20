@@ -3,7 +3,7 @@
 <!--[![wakatime](https://wakatime.com/badge/user/b40fc0a8-0c3d-4c72-850f-046f545584cc.svg)](https://wakatime.com/@b40fc0a8-0c3d-4c72-850f-046f545584cc)-->
 
 Wakatime Codestats since 10.2023:
-<!--START_SECTION:waka-all-time-->
+<!--START_SECTION:wakaalltime-->
 
 ```txt
 Total Time: 2,944 hrs 18 mins
@@ -25,13 +25,13 @@ textmate                        7 hrs 17 mins   -------------------------   00.2
 Kotlin                          6 hrs 59 mins   -------------------------   00.24 %
 ```
 
-<!--END_SECTION:waka-all-time-->
+<!--END_SECTION:wakaalltime-->
 
 Wakatime Weekly Recap:
 
-<!--START_SECTION:waka-weekly-->
+<!--START_SECTION:wakaweekly-->
 
-<!--END_SECTION:waka-weekly-->
+<!--END_SECTION:wakaweekly-->
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Philipp1297&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)-->
 
