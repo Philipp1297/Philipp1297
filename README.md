@@ -4,50 +4,10 @@
 
 Wakatime Codestats since 10.2023:
 <!--START_SECTION:wakaalltime-->
-
-```txt
-Total Time: 2,944 hrs 18 mins
-
-Python                          1,260 hrs 27 mins>>>>>>>>>>>--------------   42.81 %
-SCL                             390 hrs 12 mins >>>----------------------   13.25 %
-JavaScript                      284 hrs 33 mins >>-----------------------   09.66 %
-Markdown                        266 hrs 23 mins >>-----------------------   09.05 %
-TeX                             220 hrs 22 mins >>-----------------------   07.48 %
-HTML                            193 hrs 18 mins >>-----------------------   06.57 %
-C#                              56 hrs 24 mins  -------------------------   01.92 %
-JSON                            55 hrs 22 mins  -------------------------   01.88 %
-SQL                             51 hrs 30 mins  -------------------------   01.75 %
-CSS                             39 hrs 19 mins  -------------------------   01.34 %
-YAML                            24 hrs 45 mins  -------------------------   00.84 %
-C++                             18 hrs 34 mins  -------------------------   00.63 %
-Text                            10 hrs 46 mins  -------------------------   00.37 %
-textmate                        7 hrs 17 mins   -------------------------   00.25 %
-Kotlin                          6 hrs 59 mins   -------------------------   00.24 %
-```
-
 <!--END_SECTION:wakaalltime-->
 
 Wakatime Weekly Recap:
-
 <!--START_SECTION:wakaweekly-->
-
-```txt
-From: 12 February 2025 - To: 19 February 2025
-
-Total Time: 53 hrs 18 mins
-
-SCL                22 hrs 43 mins  >>>>>>>>>>>--------------   42.63 %
-Python             15 hrs 14 mins  >>>>>>>------------------   28.59 %
-Markdown           8 hrs 40 mins   >>>>---------------------   16.27 %
-C#                 1 hr 53 mins    >------------------------   03.53 %
-JavaScript         1 hr 46 mins    >------------------------   03.33 %
-SQL                1 hr 13 mins    >------------------------   02.31 %
-TeX                25 mins         -------------------------   00.79 %
-PowerShell         18 mins         -------------------------   00.58 %
-YAML               9 mins          -------------------------   00.31 %
-HTML               8 mins          -------------------------   00.27 %
-```
-
 <!--END_SECTION:wakaweekly-->
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Philipp1297&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)-->
