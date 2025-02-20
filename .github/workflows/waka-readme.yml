@@ -19,7 +19,7 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 15
-          SECTION_NAME: waka-all-time
+          SECTION_NAME: wakaalltime
 
   weekly-recap:
     name: WakaReadme Weekly Recap
@@ -34,4 +34,4 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-          SECTION_NAME: waka-weekly
+          SECTION_NAME: wakaweekly
