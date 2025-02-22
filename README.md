@@ -6,8 +6,6 @@ Wakatime Codestats since 10.2023:
 <!--START_SECTION:wakaalltime-->
 
 ```txt
-From: 11 April 2023 - To: 21 February 2025
-
 Total Time: 2,964 hrs 17 mins
 
 Python                          1,265 hrs 44 mins>>>>>>>>>>>--------------   42.70 %
