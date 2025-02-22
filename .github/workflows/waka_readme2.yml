@@ -20,3 +20,4 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 8
           SECTION_NAME: wakaweekly
+
