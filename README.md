@@ -27,7 +27,7 @@ Kotlin                          6 hrs 59 mins   -------------------------   00.2
 
 <!--END_SECTION:wakaalltime-->
 
-Wakatime Weekly Recap:
+Wakatime Codestats Weekly Recap:
 <!--START_SECTION:wakaweekly-->
 
 ```txt
