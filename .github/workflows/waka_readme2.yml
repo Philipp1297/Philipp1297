@@ -18,5 +18,5 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 4
+          LANG_COUNT: 7
           SECTION_NAME: wakaweekly
