@@ -33,17 +33,17 @@ Wakatime Codestats Weekly Recap:
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Total Time: 47 hrs 56 mins
+Total Time: 46 hrs 56 mins
 
-SCL                16 hrs 49 mins  >>>>>>>>>----------------   35.10 %
-Python             9 hrs 20 mins   >>>>>--------------------   19.48 %
-JavaScript         7 hrs 27 mins   >>>>---------------------   15.56 %
-TypeScript         5 hrs 51 mins   >>>----------------------   12.20 %
-CSS                2 hrs 54 mins   >>-----------------------   06.06 %
-Image (svg)        1 hr 17 mins    >------------------------   02.69 %
-SQL                1 hr 11 mins    >------------------------   02.50 %
+SCL                18 hrs 16 mins  >>>>>>>>>>---------------   38.93 %
+JavaScript         7 hrs 46 mins   >>>>---------------------   16.55 %
+Python             6 hrs 47 mins   >>>>---------------------   14.47 %
+TypeScript         5 hrs 51 mins   >>>----------------------   12.46 %
+CSS                2 hrs 54 mins   >>-----------------------   06.19 %
+Image (svg)        1 hr 17 mins    >------------------------   02.75 %
+SQL                59 mins         >------------------------   02.10 %
 ```
 
 <!--END_SECTION:wakaweekly-->
