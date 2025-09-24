@@ -3,6 +3,7 @@
 <!--[![wakatime](https://wakatime.com/badge/user/b40fc0a8-0c3d-4c72-850f-046f545584cc.svg)](https://wakatime.com/@b40fc0a8-0c3d-4c72-850f-046f545584cc)-->
 
 [![Waka Readme](https://github.com/Philipp1297/Philipp1297/actions/workflows/waka_readme2.yml/badge.svg)](https://github.com/Philipp1297/Philipp1297/actions/workflows/waka_readme2.yml)
+
 Coding Stats since 10.2023
 
 <!--START_SECTION:wakaalltime-->
