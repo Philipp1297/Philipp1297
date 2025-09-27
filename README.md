@@ -34,17 +34,17 @@ Wakatime Codestats Weekly Recap:
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 17 September 2025 - To: 24 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-Total Time: 48 hrs 40 mins
+Total Time: 46 hrs 33 mins
 
-SCL          35 hrs 11 mins  >>>>>>>>>>>>>>>>>>-------   72.30 %
-C#           8 hrs 57 mins   >>>>>--------------------   18.42 %
-Python       2 hrs 36 mins   >------------------------   05.35 %
-JavaScript   33 mins         -------------------------   01.14 %
-Markdown     29 mins         -------------------------   01.00 %
-JSON         21 mins         -------------------------   00.72 %
-Git Config   13 mins         -------------------------   00.48 %
+SCL          38 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>----   83.60 %
+Python       4 hrs 29 mins   >>-----------------------   09.64 %
+C#           1 hr 1 min      >------------------------   02.20 %
+Markdown     33 mins         -------------------------   01.20 %
+JavaScript   32 mins         -------------------------   01.17 %
+JSON         23 mins         -------------------------   00.83 %
+SQL          14 mins         -------------------------   00.51 %
 ```
 
 <!--END_SECTION:wakaweekly-->
