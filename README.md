@@ -34,16 +34,16 @@ Wakatime Codestats Weekly Recap:
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-Total Time: 39 hrs 5 mins
+Total Time: 35 hrs 34 mins
 
-SCL              14 hrs 7 mins   >>>>>>>>>----------------   36.16 %
-GDScript         10 hrs 30 mins  >>>>>>>------------------   26.89 %
-C#               6 hrs 57 mins   >>>>---------------------   17.80 %
-Python           4 hrs 20 mins   >>>----------------------   11.09 %
-SQL              2 hrs 1 min     >------------------------   05.18 %
-Markdown         1 hr 6 mins     >------------------------   02.85 %
+SCL              14 hrs 40 mins  >>>>>>>>>>---------------   41.28 %
+C#               6 hrs 57 mins   >>>>>--------------------   19.56 %
+GDScript         6 hrs 24 mins   >>>>>--------------------   18.01 %
+Python           4 hrs 20 mins   >>>----------------------   12.19 %
+SQL              2 hrs 1 min     >------------------------   05.69 %
+Markdown         1 hr 9 mins     >------------------------   03.23 %
 GitIgnore file   0 secs          -------------------------   00.01 %
 ```
 
