@@ -51,7 +51,7 @@ Bash           1 hr 52 mins    >------------------------   02.65 %
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Philipp1297&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)-->
 
-
+<!--
 <strong>Languages:  </strong><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -95,6 +95,7 @@ Bash           1 hr 52 mins    >------------------------   02.65 %
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+-->
 
 <!---
 Philipp1297/Philipp1297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
