@@ -34,17 +34,17 @@ Wakatime Codestats Weekly Recap:
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-Total Time: 46 hrs 50 mins
+Total Time: 47 hrs 33 mins
 
-SCL                38 hrs 9 mins         >>>>>>>>>>>>>>>>>>>>-----   81.46 %
-Python             5 hrs 53 mins         >>>----------------------   12.56 %
-Markdown           56 mins               >------------------------   02.01 %
-SQL                41 mins               -------------------------   01.47 %
-JavaScript         19 mins               -------------------------   00.68 %
-RGBDS Assembly     13 mins               -------------------------   00.47 %
-Requirements.txt   8 mins                -------------------------   00.30 %
+SCL                40 hrs 3 mins         >>>>>>>>>>>>>>>>>>>>>----   84.21 %
+Python             3 hrs 20 mins         >>-----------------------   07.03 %
+Markdown           2 hrs 51 mins         >>-----------------------   06.00 %
+SQL                41 mins               -------------------------   01.45 %
+JavaScript         19 mins               -------------------------   00.67 %
+YAML               5 mins                -------------------------   00.18 %
+PythonStub         5 mins                -------------------------   00.18 %
 ```
 
 <!--END_SECTION:wakaweekly-->
