@@ -34,17 +34,17 @@ Wakatime Codestats Weekly Recap:
 <!--START_SECTION:wakaweekly-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 06 July 2026 - To: 13 July 2026
 
-Total Time: 39 hrs 58 mins
+Total Time: 40 hrs 33 mins
 
-Python                     12 hrs 49 mins        >>>>>>>>-----------------   32.08 %
-JavaScript                 9 hrs 38 mins         >>>>>>-------------------   24.10 %
-SQL                        5 hrs 12 mins         >>>----------------------   13.03 %
-Markdown                   3 hrs 34 mins         >>-----------------------   08.92 %
-CSS                        2 hrs 13 mins         >------------------------   05.55 %
-.env file                  1 hr 49 mins          >------------------------   04.57 %
-Other                      1 hr 46 mins          >------------------------   04.44 %
+Python                     13 hrs 25 mins        >>>>>>>>-----------------   33.11 %
+JavaScript                 10 hrs                >>>>>>-------------------   24.68 %
+SQL                        3 hrs 55 mins         >>-----------------------   09.69 %
+Markdown                   3 hrs 50 mins         >>-----------------------   09.48 %
+Other                      3 hrs 6 mins          >>-----------------------   07.65 %
+CSS                        1 hr 52 mins          >------------------------   04.63 %
+TeX                        1 hr 9 mins           >------------------------   02.84 %
 ```
 
 <!--END_SECTION:wakaweekly-->
